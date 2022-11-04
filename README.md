@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only) -->
 
-<!--
-**ChandlerFerry/ChandlerFerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### My Work -->
 
-Here are some ideas to get you started:
+<!-- ##### Caldera -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ##### DexCare -->
+
+<!-- --- -->
+
+### Stats
+
+![Metrics](https://metrics.lecoq.io/ChandlerFerry?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=America%2FLos_Angeles)
