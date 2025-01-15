@@ -1,0 +1,89 @@
+{
+    "resourceType": "Bundle",
+    "type": "collection",
+    "entry": [
+      {
+        "resourceType": "AllergyIntolerance",
+        "id": "dairy-allergy",
+        "clinicalStatus": {
+          "coding": [{
+            "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+            "code": "active",
+            "display": "Active"
+          }]
+        },
+        "type": "allergy",
+        "category": ["food"],
+        "criticality": "high",
+        "code": {
+          "coding": [{
+            "system": "http://snomed.info/sct",
+            "code": "6085005",
+            "display": "Dairy product allergies"
+          }],
+          "text": "Dairy"
+        },
+        "reaction": [
+          {
+            "substance": {
+              "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "226760005",
+                "display": "Dairy products"
+              }]
+            },
+            "manifestation": [{
+              "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "39579001",
+                "display": "Allergic reaction"
+              }]
+            }]
+          }
+        ]
+      },
+      {
+        "resourceType": "AllergyIntolerance",
+        "id": "peanut-allergy",
+        "clinicalStatus": {
+          "coding": [{
+            "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+            "code": "active",
+            "display": "Active"
+          }]
+        },
+        "type": "allergy",
+        "category": ["food"],
+        "criticality": "high",
+        "code": {
+          "coding": [{
+            "system": "http://snomed.info/sct",
+            "code": "91935009",
+            "display": "Peanut allergy"
+          }],
+          "text": "Peanut"
+        }
+      },
+      {
+        "resourceType": "AllergyIntolerance",
+        "id": "environmental-cat",
+        "clinicalStatus": {
+          "coding": [{
+            "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+            "code": "active",
+            "display": "Active"
+          }]
+        },
+        "type": "allergy",
+        "category": ["environment"],
+        "code": {
+          "coding": [{
+            "system": "http://snomed.info/sct",
+            "code": "232347008",
+            "display": "Cat allergy"
+          }],
+          "text": "Cat dander"
+        }
+      }
+    ]
+  }
