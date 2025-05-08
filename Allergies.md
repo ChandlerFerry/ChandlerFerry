@@ -49,6 +49,7 @@
 - Apricot
 - Avocado
 - Banana
+- Cranberry
 - Grape
 - Mango
 - Melons:
@@ -87,4 +88,3 @@
 
 ## unsorted
 - water chestnut
-- Cranberry
