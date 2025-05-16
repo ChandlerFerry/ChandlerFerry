@@ -5,7 +5,7 @@
 - Peanuts
 - Soy
 - Tree Nuts
-- Wheat/Gluten
+- Gluten (Wheat, Farro)
 - Sesame
 
 ## Proteins & Dairy
