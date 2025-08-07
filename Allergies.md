@@ -56,6 +56,7 @@
   - Cantaloupe
   - Watermelon
 - Peach
+- Strawberry
 
 ### Vegetables
 - Beet
