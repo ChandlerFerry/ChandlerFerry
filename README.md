@@ -5,14 +5,14 @@
 To guarantee timely delivery of compliant platforms in Series A startups, I maintain many private templates.
 
 #### GitOps
-- ArgoCD
-- GitHub CI/CD
+- Argo CD
+- GitHub Actions
 - GitLab CI/CD
 
-#### Infrastructure
-- Terraform AWS Modules
-- Terraform GCP Modules
-- Terraform Spacelift Modules
+#### Infrastructure as Code ( Terraform )
+- OpenTofu AWS Modules
+- OpenTofu GCP Modules
+- OpenTofu Spacelift Modules
 
 #### Applications/Packages
 - NX Monorepo
@@ -25,6 +25,14 @@ To guarantee timely delivery of compliant platforms in Series A startups, I main
 - TypeScript CJS (ill advised, Node ^20.19/^22.12/23+ strongly recommended)
   - NestJS App (ill advised)
   - Generic Package
+
+#### In Progress
+- Skaffold local K8S development
+- SonarQube
+- Lacework
+
+
+
 
 <!-- ##### Caldera -->
 
