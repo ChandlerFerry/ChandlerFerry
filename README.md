@@ -19,6 +19,7 @@ To guarantee timely delivery of compliant platforms in Series A startups, I main
 - TypeScript ESM
 - TypeScript CJS (ill advised, Node ^20.19/^22.12/23+ strongly recommended)
 - TypeScript Fastify API + HeyAPI SDKs
+- TypeScript AMQP Package
 - TypeScript NextJS App
 - TypeScript NestJS App (ill advised)
 
