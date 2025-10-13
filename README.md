@@ -36,8 +36,6 @@ To guarantee timely delivery of compliant platforms in Series A startups, I main
 
 For work travel, my extensive list of allergies is constantly requested.
 
-This is a comprehensive list of my allergies for all private chefs.
-
-I have provided this data in bullet form for use by [non-developers](./Allergies.md). 
+I have provided a comprehensive list of all my allergies for [ private chefs ](./Allergies.md). 
 
 However, as a Healthcare Data Enthusiast, I have also provided it in [FHIR](./allergies.json).
