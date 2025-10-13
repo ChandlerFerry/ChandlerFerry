@@ -5,7 +5,7 @@
 To guarantee timely delivery of compliant platforms in Series A startups, I maintain many private templates.
 
 #### GitOps
-- ArgoCD 
+- ArgoCD
 - GitHub CI/CD
 - GitLab CI/CD
 
@@ -18,10 +18,9 @@ To guarantee timely delivery of compliant platforms in Series A startups, I main
 - NX Monorepo
 - TypeScript ESM
 - TypeScript CJS (ill advised, Node ^20.19/^22.12/23+ strongly recommended)
-- TypeScript Fastify API
+- TypeScript Fastify API + HeyAPI SDKs
 - TypeScript NextJS App
 - TypeScript NestJS App (ill advised)
-
 
 <!-- ##### Caldera -->
 
