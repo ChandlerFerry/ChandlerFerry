@@ -90,3 +90,4 @@
 ## unsorted
 - water chestnut
 - Brocollini
+- Banana? More testing to be done
