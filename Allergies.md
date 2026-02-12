@@ -91,3 +91,4 @@
 - water chestnut
 - Brocollini
 - Banana? More testing to be done
+- Lemons? Seems like it might be histamine based allergies from now on
