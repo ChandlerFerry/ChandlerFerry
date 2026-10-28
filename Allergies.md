@@ -1,23 +1,25 @@
 # Food & Environmental Allergies
 
-## Major Allergens (Part of FDA Big 9)
+⚠️ = suspected, still testing
+
+## Major Allergens (FDA Big 9)
 - Dairy
+- Gluten (Wheat, Farro)
 - Peanuts
+- Sesame
 - Soy
 - Tree Nuts
-- Gluten (Wheat, Farro)
-- Sesame
 
-## Proteins & Dairy
-- Dairy Products
-  - Milk
-  - Cheese
-  - Yogurt
-  - Whey
+## Dairy & Soy
+- Dairy
   - Casein
-- Soy and Soy Products
+  - Cheese
+  - Milk
+  - Whey
+  - Yogurt
+- Soy and Soya Products
 
-## Proteins & Nuts
+## Nuts
 - Peanuts
 - Tree Nuts
   - Almonds
@@ -30,40 +32,43 @@
   - Pistachios
   - Walnuts
 
-## Grains, Seeds & Cereals
-### Cereal Grains (Contains Gluten)
+## Grains & Seeds
+### Contains Gluten
 - Barley
-- Millet
 - Rye
-- Wheat
+- Wheat (incl. Farro)
 
-### Seeds & Pseudocereals
+### Gluten-Free
+- Millet
+
+### Seeds
 - Flax Seeds
 - Hemp Seeds
 - Sesame Seeds
 - Sunflower Seeds
 
-## Fresh Produce
-### Fruits
+## Fruits
 - Apple
 - Apricot
 - Avocado
-- Banana
+- Banana ⚠️ (possibly throat-based)
 - Cranberry
-- Grape
+- Lemon ⚠️ (possibly histamine-based)
 - Mango
-- Melons:
+- Melons
   - Cantaloupe
   - Watermelon
 - Peach
 - Strawberry
 
-### Vegetables
+## Vegetables
 - Beet
 - Bell Pepper
+- Broccolini
 - Carrot
 - Celery
 - Peas
+- Water Chestnut
 
 ## Cooking Oils
 - Coconut Oil
@@ -80,16 +85,12 @@
 - Pectin
 - Turmeric
 
-## Environmental Allergens
+## Products
+- Pedialyte Blue Raspberry
+
+## Environmental
 - Cats
 - Dogs
 - Dust
 - Grass
 - Smoke
-
-## unsorted
-- water chestnut
-- Brocollini
-- Banana? More testing to be done
-- Lemons? Seems like it might be histamine based allergies from now on
-- Pedialyte Blue Raspberry
