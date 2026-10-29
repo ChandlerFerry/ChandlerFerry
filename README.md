@@ -22,21 +22,24 @@ To guarantee timely delivery of compliant platforms in Series A startups, I main
   - AMQP Package
   - NextJS App
   - Generic Package
-- TypeScript CJS (ill advised, Node ^20.19/^22.12/23+ strongly recommended)
   - NestJS App (ill advised)
-  - Generic Package
-
-#### In Progress
-- Skaffold local K8S development
-- SonarQube
-- Lacework
-
-
+- Rust
+  - Algorithm Optimization Simulators (A*, POMDP, BiDir Dijkstra, etc.)
+  - Isolated Containers (File decoders, external connections)
+  - CUDA Applications
 
 
 <!-- ##### Caldera -->
 
 <!-- ##### DexCare -->
+
+<!-- ##### Xealth -->
+
+<!-- ##### Clincove -->
+
+<!-- ##### SingleKey -->
+
+<!-- ##### StudioStaq -->
 
 <!-- --- -->
 
